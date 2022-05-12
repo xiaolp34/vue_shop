@@ -5,4 +5,6 @@
 ### GitHub：https://xiaolp34.github.io/vue_shop/
 ### Gitee：https://xiao34.gitee.io/vue_shop
 ## 其他项目:
-### music_web 音乐网站: https://xiaolp34.github.io/music_web/
+### 音乐网站:  
+#### GitHub：https://xiaolp34.github.io/vue_shop/
+###            Gitee：https://xiao34.gitee.io/vue_shop
