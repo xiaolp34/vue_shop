@@ -7,4 +7,7 @@
 ## 其他项目:
 ### 音乐网站:  
 #### GitHub：https://xiaolp34.github.io/vue_shop/
-###            Gitee：https://xiao34.gitee.io/vue_shop
+#### Gitee：https://xiao34.gitee.io/vue_shop
+### 品优购：
+#### GitHub：https://xiaolp34.github.io/vue_shop/
+#### Gitee：https://xiao34.gitee.io/vue_shop
