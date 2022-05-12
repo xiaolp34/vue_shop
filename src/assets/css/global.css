@@ -1,0 +1,46 @@
+html,body,#app{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  min-width: 1366px;
+}
+
+.el-breadcrumb{
+  margin-bottom: 20px;
+}
+.el-card{
+  box-shadow: 0,1px,1px,rgba(0, 0, 0,0.2) !important
+}
+.el-table {
+  margin-top: 20px;
+}
+/* 解决el-cascader级联选择器供选择的列表太高 */
+.el-cascader-menu {
+  height: 300px;
+}
+/* 使用单选选择任意一级选项使用此属性时 :props="{ checkStrictly: true }"时，默认的选择区域只有radio一个小圆圈，点击选项文字无效的。
+解决方案:分析页面上渲染出来的element组件结构，找到对应的类名。进行样式的覆盖 */
+.el-cascader-menu .el-radio {
+  display: table;
+  vertical-align: middle;
+  width: 90%;
+  height: 100%;
+  position: absolute;
+  box-sizing: border-box;
+  margin-left:-20px;
+  padding-left:10px;
+}
+.el-cascader-menu .el-radio .el-radio__input {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+/* 富文本编辑器样式 */
+.ql-editor{
+  min-height: 300px;
+}
+
+/* Cascader 级联选择器 宽度 */
+.previewImg {
+  width: 100%;
+}
