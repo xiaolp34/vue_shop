@@ -1,4 +1,4 @@
-# 电商后台管理系统（PC端）
+# 电商后台管理系统（PC端） 
 ## 技术栈：
 ### html、css、JavaScript、vue、ES6、vue-cli、axios、Element-ui、vue-router、nodejs、ESLint、less等
 ## 效果地址：
